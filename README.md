@@ -1,2 +1,2 @@
-# DataScience_Finance
+# DataScience
 Quant analysis repository
